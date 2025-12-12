@@ -4,7 +4,7 @@
 <!-- ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&color=7F3FBF&center=true&vCenter=true&lines=Hi%2C+I'm+Nafisat!;Bioinformatics+%7C+Neural+Signals;Human-Centered+Tech+Builder;Data+Engineering+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&color=7F3FBF&center=true&vCenter=true&lines=Hi%2C+I'm+Nafisat!;Bioinformatics+%7C+Neural+Signals;Human&#8209;Centered+Tech+Builder;Data+Engineering+🚀" />
 </p>
 
 ---
@@ -72,11 +72,4 @@
 ## 📊 **GitHub Stats**
 
 ```md
-![Nafisat's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-
-- 🌱 I’m learning Python for bioinformatics and Neural signal processing
-- 👯 Collaborations on projects that intersect data engineering and healthcare are highly welcomed
-  
-- 📫 How to reach me: Email: Ozohu.15@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+![Nafisat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oxohu&show_icons=true&theme=radical)
