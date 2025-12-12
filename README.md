@@ -4,8 +4,9 @@
 <!-- ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=5000&color=7F3FBF&center=true&vCenter=true&lines=Hi%2C+I'm+Nafisat!;Bioinformatics+%7C+Neural+Signals;Human&#8209;Centered+Tech+Builder;Data+Engineering+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=5000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nafisat!;Bioinformatics+%7C+Neural+Signals;Human&#8209;Centered+Tech+Builder;Data+Engineering+🚀" />
 </p>
+
 
 
 ---
