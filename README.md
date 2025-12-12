@@ -49,14 +49,11 @@
 ---
 
 ## 🔥 **Featured Projects**
-> *(Replace YOUR-USERNAME with your actual GitHub username)*
+> 
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **ICU Data Lake** | A real-time medical data pipeline for multi-hospital monitoring | 🔗 [View Project](https://github.com/YOUR-USERNAME) |
-| **Piezo-Swarm Robotics** | Using piezoelectricity to power swarming robots | 🔗 [View Paper](https://github.com/YOUR-USERNAME) |
-| **Fire-Rescue Bot** | A robot with IR vision, smoke filtration & navigation | 🔗 [View Repo](https://github.com/YOUR-USERNAME) |
-
+| **ICU Data Lake** | A real-time medical data pipeline for multi-hospital monitoring | 🔗 [View Project](https://github.com/Oxohu) |
 ---
 
 ## 🎖️ **Badges**
