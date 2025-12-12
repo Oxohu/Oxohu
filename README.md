@@ -4,7 +4,7 @@
 <!-- ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&color=7F3FBF&center=true&vCenter=true&lines=Hi%2C+I'm+Nafisat!;Bioinformatics+%7C+Neural+Signals;Human&#8209;Centered+Tech+Builder;Data+Engineering+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=5000&color=7F3FBF&center=true&vCenter=true&lines=Hi%2C+I'm+Nafisat!;Bioinformatics+%7C+Neural+Signals;Human&#8209;Centered+Tech+Builder;Data+Engineering+🚀" />
 </p>
 
 ---
@@ -64,9 +64,3 @@
   <img src="https://img.shields.io/badge/Neural%20Signals-Researching-purple?logo=brain" />
 </p>
 
----
-
-## 📊 **GitHub Stats**
-
-```md
-![Nafisat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oxohu&show_icons=true&theme=radical)
