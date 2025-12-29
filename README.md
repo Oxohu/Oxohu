@@ -37,28 +37,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45"/>
 </p>
-
----
-
-## 🚀 **Currently Working On**
-- Designing a **real-time data pipeline** for multi-source system monitoring  
-- Building **ETL workflows**, databases, and automation scripts  
-- Creating educational and technical content around **engineering, data, and youth empowerment**
-
----
-
-## 🔥 **Featured Projects**
-
-| Project | Description | Link |
-|-------|------------|------|
-| **Real-Time Data Lake** | A scalable data pipeline for ingesting, storing, and querying streaming system data | 🔗 [View Project](https://github.com/Oxohu) |
-
----
-
-## 🎖️ **Badges**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Strong-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-Active-orange?logo=database" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-Growing-purple?logo=code" />
-  <img src="https://img.shields.io/badge/Linux%20%26%20Git-Comfortable-black?logo=linux" />
-</p>
