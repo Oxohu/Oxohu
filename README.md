@@ -1,7 +1,3 @@
-# 👋 Hi, I’m Nafisat!
-<!-- ============================ -->
-<!--        MY PORTFOLIO         -->
-<!-- ============================ -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=5000&color=7F3FBF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Nafisat!;Data+%7C+Engineering;Human-Centered+Problem+Solver;Building+Scalable+Systems+🚀" />
