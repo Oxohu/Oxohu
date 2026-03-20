@@ -1,5 +1,4 @@
 ## 👩🏽‍💻 About Me
-
 - 🎓 Mechatronics Engineering Student  
 - 🌱 Currently learning **Python, Data Systems, and Machine Learning**  
 - ⚙️ Interested in **Data Engineering, Medical Data Systems, and Intelligent Infrastructure**  
@@ -26,29 +25,12 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxohu&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxohu&show_icons=true&hide=stars,prs,issues,contribs&include_all_commits=false&count_private=false&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oxohu&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Coding Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
-
----
-
-## 🚀 Current Focus
-
-- 📊 **Data Engineering & Data Systems**
-- 🤖 **Machine Learning for Healthcare**
-- ☁️ Learning **cloud + data pipelines**
-- 🧠 Building projects combining **AI + Engineering**
-
----
+![Longest Streak](https://streak-stats.demolab.com?user=oxohu&theme=tokyonight&hide_current_streak=true)
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]((https://www.linkedin.com/in/nafisat-abdulsalam-72b530252/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nafisat-abdulsalam-72b530252/)
