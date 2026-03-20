@@ -26,9 +26,10 @@
 ---
 ## 🔬 Research Interests
 - Medical data systems
-- AI for healthcare
-- Rehabilitation Robotics
+- Intelligent Systems
 - Data infrastructure for developing countries
+- Robotics and Automation
+
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nafisat-abdulsalam-72b530252/)
