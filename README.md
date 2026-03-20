@@ -25,10 +25,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxohu&show_icons=true&hide=stars,prs,issues,contribs&include_all_commits=false&count_private=false&theme=tokyonight)
-
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nafisat-abdulsalam-72b530252/)
