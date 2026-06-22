@@ -44,17 +44,18 @@ I’m focused on building and studying intelligent systems that can support medi
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Oxohu&show_icons=true&theme=default"
-width="32%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Oxohu"
-width="32%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxohu&layout=compact"
-width="32%" />
-
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Oxohu&show_icons=true&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Oxohu" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxohu&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 <br clear="all"/>
