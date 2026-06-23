@@ -1,6 +1,6 @@
 # 👩🏽‍💻 About Me
 
-Hi, I’m Nafisat Abdulsalam, a Mechatronics Engineering student and Machine Learning enthusiast working at the intersection of healthcare, data systems, and robotics.
+Hi, I’m Nafisat Ozohu Abdulsalam, a Mechatronics Engineering student and Machine Learning enthusiast working at the intersection of data systems and robotics.
 
 I’m focused on building and studying intelligent systems that can support medical workflows, rehabilitation processes, and decision-making in clinical environments.
 
